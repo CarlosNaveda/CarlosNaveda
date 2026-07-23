@@ -57,7 +57,7 @@ Este proyecto me permitió fortalecer mis conocimientos en desarrollo web modern
 ---
 
 ### Fansubpy
-🔗 **Repositorio:** https://github.com/CarlosNaveda/fansubpy
+🔗 **Repositorio:** https://github.com/CarlosNaveda/fansubpy  
 Herramienta desarrollada en Python para automatizar gran parte del proceso de subtitulado de videos mediante inteligencia artificial. A partir del audio genera subtítulos que posteriormente pueden ajustarse manualmente y complementarse con efectos visuales, como karaoke.
 Aunque el proceso aún requiere una revisión final para lograr la máxima precisión, reduce significativamente el tiempo necesario para producir subtítulos de alta calidad.  
 
