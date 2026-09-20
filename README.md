@@ -74,5 +74,5 @@ Aunque actualmente es un proyecto privado, es la aplicación que utilizo todos l
 
 
 ## Actualmente aprendiendo
-Playwright, ingeniería de prompts, arquitecturas RAG, Model Context Protocol (MCP), desarrollo con IA agéntica, inglés.
+Karate DSL, Model Context Protocol (MCP), desarrollo con IA agéntica.
 
