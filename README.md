@@ -70,7 +70,15 @@ Growe es el sistema que utilizo para organizar prácticamente toda mi vida perso
 Nació con el objetivo de reemplazar los distintos sistemas que había construido previamente en Notion y, al mismo tiempo, explorar el desarrollo asistido por IA utilizando herramientas de programación agéntica.   
 Aunque actualmente es un proyecto privado, es la aplicación que utilizo todos los días y una de las experiencias de aprendizaje más importantes de mi carrera.  
 
-**Tecnologías:** Next.js · React · TypeScript · Supabase · Tailwind CSS · IA agéntica · Claude Code
+**Tecnologías:** Next.js · React · TypeScript · Supabase · Tailwind CSS · Playwright · Vercel · IA agéntica · Claude Code
+
+---
+
+### Peakdy *(Repositorio privado)*
+Peakdy es la app con la que mis amigos y yo nos mantenemos constantes entrenando. Cada uno marca con un toque qué deporte hizo en el día, anota el detalle de sus sesiones (pesos, distancias, tiempos) y sigue un objetivo personal. En un panel compartido el grupo ve las rachas y el avance de todos, mientras las medidas exactas de cada uno quedan privadas. Nació como un producto independiente de Growe, del que reutiliza la infraestructura, y la construí con desarrollo asistido por IA, cuidando la seguridad de los datos y probando cada cambio de forma automatizada antes de publicarlo.
+Hoy está en producción y la usamos todos los días; es mi primera app hecha para un grupo de personas, no solo para mí.
+
+**Tecnologías:** Next.js · React · TypeScript · Supabase · Tailwind CSS · Playwright · Vercel · IA agéntica · Claude Code
 
 
 ## Actualmente aprendiendo
