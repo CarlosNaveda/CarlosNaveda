@@ -80,6 +80,7 @@ Hoy está en producción y la usamos todos los días; es mi primera app hecha pa
 
 **Tecnologías:** Next.js · React · TypeScript · Supabase · Tailwind CSS · Playwright · Vercel · IA agéntica · Claude Code
 
+---
 
 ## Actualmente aprendiendo
 Karate DSL, Model Context Protocol (MCP), desarrollo con IA agéntica.
