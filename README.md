@@ -79,9 +79,3 @@ Peakdy es la app con la que mis amigos y yo nos mantenemos constantes entrenando
 Hoy está en producción y la usamos todos los días; es mi primera app hecha para un grupo de personas, no solo para mí.
 
 **Tecnologías:** Next.js · React · TypeScript · Supabase · Tailwind CSS · Playwright · Vercel · IA agéntica · Claude Code
-
----
-
-## Actualmente aprendiendo
-Karate DSL, Model Context Protocol (MCP), desarrollo con IA agéntica.
-
